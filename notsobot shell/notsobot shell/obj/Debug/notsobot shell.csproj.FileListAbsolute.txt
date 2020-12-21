@@ -1,0 +1,14 @@
+C:\Users\simon\source\repos\notsobot shell\notsobot shell\bin\Debug\notsobot shell.exe.config
+C:\Users\simon\source\repos\notsobot shell\notsobot shell\bin\Debug\notsobot shell.exe
+C:\Users\simon\source\repos\notsobot shell\notsobot shell\bin\Debug\notsobot shell.pdb
+C:\Users\simon\source\repos\notsobot shell\notsobot shell\bin\Debug\Anarchy.dll
+C:\Users\simon\source\repos\notsobot shell\notsobot shell\bin\Debug\Leaf.xNet.dll
+C:\Users\simon\source\repos\notsobot shell\notsobot shell\bin\Debug\Newtonsoft.Json.dll
+C:\Users\simon\source\repos\notsobot shell\notsobot shell\bin\Debug\websocket-sharp.dll
+C:\Users\simon\source\repos\notsobot shell\notsobot shell\bin\Debug\Leaf.xNet.xml
+C:\Users\simon\source\repos\notsobot shell\notsobot shell\bin\Debug\Newtonsoft.Json.xml
+C:\Users\simon\source\repos\notsobot shell\notsobot shell\obj\Debug\notsobot shell.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\notsobot shell\notsobot shell\obj\Debug\notsobot shell.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\notsobot shell\notsobot shell\obj\Debug\notsobot shell.csproj.CopyComplete
+C:\Users\simon\source\repos\notsobot shell\notsobot shell\obj\Debug\notsobot shell.exe
+C:\Users\simon\source\repos\notsobot shell\notsobot shell\obj\Debug\notsobot shell.pdb
